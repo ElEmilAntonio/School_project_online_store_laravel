@@ -1,0 +1,1 @@
+<div> <img type="image" src="/images/predeterminado.jpg" alt="Foto de comentario"  style="height:120px;width:120px;">   </div>comentario: este es el primer comentario
